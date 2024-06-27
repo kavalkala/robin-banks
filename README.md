@@ -11,7 +11,8 @@ White hat hackers, like myself, operate under an ethical framework, working alon
 ### The Economics of White Hat Hacking
 
 Unlike traditional bank robbery, which has been shown to yield an average return of about £20,000 per heist and often involves significant risks , white hat hacking offers a safer and more stable income. Depending on the severity and complexity of the discovered vulnerability, the payouts in bug bounty programs can range from $1,000 to $10,000 or more. This form of ethical hacking not only provides financial benefits but also contributes to global cybersecurity efforts.
-Discovering Vulnerabilities
+
+#### Discovering Vulnerabilities
 
 As a white hat hacker, my daily work involves scrutinizing bank applications and their systems for potential weaknesses. Common focus areas include:
 
