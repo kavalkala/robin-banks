@@ -21,7 +21,8 @@ As a white hat hacker, my daily work involves scrutinizing bank applications and
  -   Encryption Protocols: Inadequate or outdated encryption methods can leave sensitive information unprotected.
 
 For instance, I recently uncovered a significant vulnerability in a bank’s mobile application that allowed unauthorized access to user accounts by manipulating session tokens. Upon discovering this flaw, I promptly reported it to the bank's security team. The bank responded swiftly, and we collaborated to patch the vulnerability. As a result, I was rewarded with a substantial bounty.
-Negotiation and Collaboration
+
+#### Negotiation and Collaboration
 
 While some financial institutions may initially be hesitant to work with hackers, clear communication and demonstration of the vulnerability’s impact often lead to productive collaborations. Effective negotiation skills are vital to ensure fair compensation. Bug bounty programs typically include well-defined reward structures, enabling both parties to reach mutually beneficial agreements quickly.
 
