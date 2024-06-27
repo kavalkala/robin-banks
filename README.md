@@ -40,3 +40,10 @@ White hat hacking not only offers financial rewards but also contributes meaning
 ### Conclusion
 
 Working as a white hat hacker has provided me with not only a lucrative and satisfying career but also the inner gratification of knowing that I’m making the digital world a safer place. This ethical and legal career path allows me to leverage my technical skills to their fullest potential. While traditional crime may not pay well, ethical hacking offers a viable and rewarding alternative that benefits both individuals and society as a whole. Choosing the ethical path in cybersecurity can yield substantial rewards without the moral and legal complications of breaking the law.
+
+
+### Disclaimer
+
+
+![image](https://github.com/kavalkala/robin-banks/assets/172436566/858d4908-ccd2-4fd7-996c-1ad8b0977c70)
+
